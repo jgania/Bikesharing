@@ -60,3 +60,5 @@ Overall, a bikeshare business in Des Moines may be successful if there is enough
 ### Ending Location
 ![image](https://user-images.githubusercontent.com/102545401/221267321-ba667909-55b4-40dc-926f-a7ea92884277.png)
 
+[[link to dashboard](https://public.tableau.com/app/profile/jordan.gania)]
+
